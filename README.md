@@ -15,4 +15,8 @@ A collection of leetcode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/hit2412/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/hit2412/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
