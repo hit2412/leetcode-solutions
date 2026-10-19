@@ -24,4 +24,12 @@ A collection of leetcode solutions!
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hit2412/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/hit2412/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/hit2412/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/hit2412/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/hit2412/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
