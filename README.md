@@ -10,6 +10,7 @@ A collection of leetcode solutions!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/hit2412/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/hit2412/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -27,9 +28,14 @@ A collection of leetcode solutions!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/hit2412/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hit2412/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/hit2412/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/hit2412/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
