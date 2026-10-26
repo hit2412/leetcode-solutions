@@ -11,6 +11,7 @@ A collection of leetcode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/hit2412/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/hit2412/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/hit2412/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hit2412/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
@@ -42,5 +43,6 @@ A collection of leetcode solutions!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/hit2412/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hit2412/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
