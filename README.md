@@ -15,6 +15,7 @@ A collection of leetcode solutions!
 | [0242-valid-anagram](https://github.com/hit2412/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hit2412/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hit2412/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/hit2412/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ A collection of leetcode solutions!
 | [0125-valid-palindrome](https://github.com/hit2412/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hit2412/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hit2412/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/hit2412/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
