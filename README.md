@@ -19,6 +19,7 @@ A collection of leetcode solutions!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/hit2412/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/hit2412/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ A collection of leetcode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/hit2412/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0088-merge-sorted-array](https://github.com/hit2412/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hit2412/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ A collection of leetcode solutions!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/hit2412/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/hit2412/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hit2412/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hit2412/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
