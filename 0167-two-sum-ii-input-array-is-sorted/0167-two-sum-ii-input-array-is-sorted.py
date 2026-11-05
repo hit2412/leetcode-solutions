@@ -7,18 +7,14 @@ class Solution:
         #             l.append(i+1)
         #             l.append(j+1)
         #             return l\
-        right=0
-        left=len(numbers)-1
-        l=[]
+        right, left = 0, len(numbers)-1
         while right < left:
             if numbers[right]+numbers[left]>target:
                 left=left-1
-            if numbers[right]+numbers[left]<target:
+            elif numbers[right]+numbers[left]<target:
                 right=right+1
-            if numbers[right]+numbers[left]==target:
-                l.append(right+1)
-                l.append(left+1)
-                return l
+            else:
+                return [right+1, left+1]
         
 
             
